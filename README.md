@@ -57,6 +57,7 @@ Hacer un diagnóstico, evaluar el desempeño de la aplicación y proponer los ca
 ¿Qué herramientas utilice?
 
 1. Sesión de Q&A con Project Manager "Tus finanzas"
+
 ![Sesión de preguntas y respuestas](/imagenesRM/insightsPM.png)
 
 2. Pruebas de usabilidad.
