@@ -48,133 +48,126 @@ Manager del equipo les brinda el contexto:
   Ads… Yo no estoy tan seguro; quisiera que como parte de su trabajo estas
   próximas dos semanas, entendamos ese punto también.”
 
-![preview app de finanzas](https://lh3.googleusercontent.com/WyfUPurRuoXyyeZScQtdLhk063ZozToVlujoljul3TDwJW5KZy3Om_LvuB-TB9IcG2r_BCSpoXtXL-bZjIeGBFxQmL4GYEM2QXnQovq6EvixYaO_Z5-gFMvljM9jye7bVofendMteBI)
+#  Objetivos iniciales del proyecto:
 
-### Recursos
+Hacer un diagnóstico, evaluar el desempeño de la aplicación y proponer los cambios necesarios para optimizar el producto.
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/u/0/folders/1NWf4701uKDsCK0eLNI8RXEocrI1g1zqd) y en los siguientes
-links, encontrarán:
+# Primer Sprint.
 
-- Los user persona primario y secundario del proyecto
-- Los user flows iniciales y actuales del proyecto del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/Gr5GEIRrjF9eIplIeEHUSJNt/proyecto-2-banca?node-id=0%3A477)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/e9h245e)
-- Funnel Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
-- [Landing Page](http://tus-finanzas.pagedemo.co/) inicial del producto
+¿Qué herramientas utilice?
 
-## Objetivos de aprendizaje
+1. Sesión de Q&A con Project Manager "Tus finanzas"
+![Sesión de preguntas y respuestas](/imagenesRM/insightsPM.png)
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Muchas de ustedes terminarán trabajando en productos
-existentes y deben estar familiarizadas con el proceso de analizar la data del
-producto, complementar con investigación de campo y con esto definir una
-estrategia de crecimiento del producto. Puedes leer sobre el trabajo de un
-UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+2. Pruebas de usabilidad.
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
+Se realizaron 33 pruebas de usabilidad de las cuales:
 
-## Consideraciones generales
+2.1 Sexo
+* 15 F
+* 18 M
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+2.2 Sistema Operativo de dispositivos
+* 21 Android
+* 9 iOS
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+2.3 Ocupación
+* 9 estudiantes
+* 24 empleados
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y con base en eso
-proponer un nueva alternativa. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+15 de los usuari@s entrevistados ya han tenido interacción con otras aplicaciones bancarias.
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+Algunos de los insights de estas pruebas:
+![Pruebas de usabiliad](/imagenesRM/insightsU.png)
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
+3. Análisis de Funnel Analytics de los primeros 6 meses del MVP
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu con consultora y el cliente, cada
-desición que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+El cliente me entregó un archivo con data de los últimos seis meses. De este archivo se obtuvo el siguiente análisis:
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una ppt frente a un cliente, se prolija en el
-diseño de tus láminas y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente. En la presentación no deben ocurrir errores.
+- El call to action en landing page e impresiones en facebook, no esta siendo efectivo. El usuario no está dirigiéndose a app store para descargar la aplicación.
 
-## Entrega
+![Impresiones FB & Landing Page](/imagenesRM/impresionesFBLP.png)
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+- La aplicación no esta cumpliendo su principal funcionalidad. Los usuarios están gastando más en comparación de lo que se está ahorrando. Mi hipotesis es que los usuarios no están capacitados o familiarizados con el hábito del ahorro.
 
-README.md  detallando:
+![Gastos vs ahorros](/imagenesRM/ahorrovsgasto.png)
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+- Hay un porcentaje alto de usuarios con dispositivos android, que llegan a landing page pero al visualizar que esta no se encuentra disponible para su sistema operativo, se van.
+
+![Android vs iOS](/imagenesRM/androidvsios.png)
+
+- Bounce rate alto. Los usuarios entran a landig page y salen rapidamente sin descargar la aplicación.
+
+- Mes con mes, ha aumentado "active devices". Los usuarios si están usando la aplicación pero no están llegando nuevos usuarios.
+
+![Active last 30 days](/imagenesRM/activelast30days.png)
+
+4. Iteración User persona
+
+Con base en las encuestas de usabiliad, se realizó la siguientes iteración de user persona.
+
+![User Persona](/imagenesRM/userpersona.png)
+
+5. Benchmark aplicaciones financieras a nivel nacional y mundial
+
+![Benchmark](/imagenesRM/Benchmark.png)
+
+6. Investigación "consumo de medios y dispositivos 2018, corte financiero"
+
+![Consumo de medios y dispositivos](/imagenesRM/estudioFinanciero.png)
+
+7. Análisis Heurísticas de usabilidad
+
+Se realizó un análisis de las heurísticas de usabilidad. Esto con la finalidad de validar qué tan fácil podría ser utilizar la aplicación por primera vez. También, funciona para "predecir" los errores que el / la usuari@ podrían encontrarse.
+
+Si quieres saber más acerca de esta herramienta, da click [aqií](https://blog.interactius.com/metodolog%C3%ADas-de-ux-evaluaci%C3%B3n-heur%C3%ADstica-parte-i-b5d02b566987).
+
+Algunos de los errores que se encontraron, fueron los siguientes:
+
+![Heurísticas de usabilidad](/imagenesRM/heuristicas.png)
+
+* Pain & Gains
+
+![Pain & Gains](/imagenesRM/paingain.png)
+
+8. Insights primer sprint
+
+
+
+- Dependiendo de la edad, cambian las motivaciones de ahorro
+- Concepto de seguridad se agudiza entre edades
+- Amplio mercado de jóvenes que aún no interactúan con los bancos pero ya cuenta con una percepción
+- Las y los usuarios no tienen un hábito de ahorro. Cuando se les que opinan del ahorro tienen una percepción positiva, sin embargo, no realizan está actividad con frecuencia.
+
+
+# Segundo Sprint.
+1. Rediseño de aplicación
+2. Pruebas de usabilidad
+3. Entrevistas con usuari@s target
+
+
 * Recomendaciones de próximos pasos para el banco con respecto al app (estas
   recomendaciones tendrán que ser sustentadas por tu investigación):
+
   * Qué modificaciones se deberían hacer
+1. Desarrollar la aplicación para usuarios con dispositivos android
+2. Hacer un análisis de la otra aplicación bancaria. Varias usuarios buscaban un complemento de esta aplicación,
+con funcionalidades similares a la otra.
+
   * Cuáles deberían ser los próximos desarrollos
   * En qué se debería invertir el presupuesto de marketing
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+* Rediseño de la aplicación.
 
-### Hacker edition
+En [este video](https://drive.google.com/file/d/10MbdMC-UGim5wDn-G5nPnMEOIXXZsmzF/view?usp=sharing) puedes encontrar una comparativo del antes y después de la aplicación.
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
+Si estás interesad@ en testear ambos prototipos, da click:
+1. [Tus finanzas](https://marvelapp.com/e9h245e/screen/47044706)
+2. [Rediseño Tus finanzas](https://marvelapp.com/b9a3jab/screen/55353588)
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- Investiga sobre chatbots y sustenta si sería bueno incluir uno en alguna parte
-  del journey del uso del producto. Si crees que un chatbot añadiría valor,
-  prototípalo usando [Botsociety](http://bit.ly/ux-chatbot).
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Utiliza los diseños exportados en Zeplin, Handoffs o Inspects y desarróllalos
-  utilizando las tecnologías web que aprendiste en el common core: HTML, CSS y
-  JS. Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene
-  que ser mobile-friendly. Despliega el código en GitHub Pages o Heroku.
-- Escribe un post en Medium contando tu proceso de investigación.
-- Crea un video mostrando el demo del app, aquí algunos ejemplos:
-  - [Genius Scan](https://www.youtube.com/watch?v=6zLP2iOPmMk)
-  - [Nequi](https://www.youtube.com/watch?v=BDLAXvSQCZ8)
-  - [Simple Bank](https://www.youtube.com/watch?v=0eqD5o6422M)
-  - [Pocket](https://www.youtube.com/watch?v=MoJHYNKmS2U)
 
-## Otras consideraciones
+<!-- ## Otras consideraciones
 
 ### 1) Planeamiento y presupuesto
 
@@ -190,49 +183,4 @@ Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
 de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
 te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
 tuviste al desarrollar el proyecto 1.
-
-### 2) Prototipo de alta fidelidad
-
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
-
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
-
-## Evaluación
-
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
-
-### UX Design
-
-|Habilidad|
-|:---|
-|User centricity| 
-|Planificación| 
-|Entrevistas y testing|
-|Observación|
-|Síntesis de resultados|
-|Flujos de usuario|
-|Arquitectura de la información|
-|Prototyping|
-|Business mindset|
-|Visual Design|
-
-### Soft skills
-
-|Habilidad|
-|:---|
-|Planificación y organización|
-|Autoaprendizaje|
-|Solución de Problemas|
-|Dar y recibir feedback|
-|Adaptabilidad|
-|Trabajo en equipo (trabajo colaborativo y responsabilidad)|
-|Comunicación eficaz|
-|Presentaciones|
+ -->
